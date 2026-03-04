@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    background-color: azure;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.3;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto auto;
+    padding: 20px;
+}
+
+.home-header {
+    text-align: center;
+    background-color: white;
+}
+
+.item-1, .item-2, .item-3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #b22222;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    max-width: 100%;
+    border-radius: 8px;
+    height: auto;
+}
+
+a {
+    color: #841616;
+}
+
+h1 {
+    color: #841616;
+    text-align: center;
+}
+
+h2 {
+    color: #b22222;
+}
+
+strong {
+    font-style: italic;
+    color: #555;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
